@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func pangkat(base, pangkat int) int {
-	ade := 1 //inisial niali awal
+	ade := 1 //inisial nilai awal
 
 	for ade1 :=1; ade1 <= pangkat; ade1++{
 		ade = ade * base
